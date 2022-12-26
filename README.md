@@ -1,7 +1,10 @@
 # Informe Tarea 4
 
+
 Nombre: Mauricio Fuerez
+
 NRC:10069
+
 El informe realizado a continuación está evaluado y especificado para la compresión de los capítulos 7 y 8 del libro:  Principios de circuitos eléctricos - Floyd
 
 1.	OBJETIVOS
