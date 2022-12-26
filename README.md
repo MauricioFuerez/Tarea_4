@@ -50,44 +50,45 @@ CAPITULO 7 y 8
 
 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-CAPITULO 7 : 
+CAPITULO 7 : CIRCUITOS EN SERIE-PARALELO
 
 -Ejercicios pares
-![7 1](https://user-images.githubusercontent.com/117534483/209579715-98f62dbf-e288-40a7-a8e2-8ea92d64853b.jpg)
+![7 1](https://user-images.githubusercontent.com/117534483/209582078-5f477928-343e-4307-ac1a-8246cd1e3e0f.jpg)
 
-![7 2](https://user-images.githubusercontent.com/117534483/209579716-25079d6a-d259-493e-94f6-5359b114b606.jpg)
+![7 2](https://user-images.githubusercontent.com/117534483/209582080-7e11654f-1ee7-4638-9c00-a6ffa9820ad9.jpg)
 
-![7 3](https://user-images.githubusercontent.com/117534483/209579717-9cbfb764-77e6-4f56-aefb-3c3f0cef76f5.jpg)
+![7 3](https://user-images.githubusercontent.com/117534483/209582083-ee9587d8-a27a-4f6f-b793-ac449428cc05.jpg)
 
-![7 4](https://user-images.githubusercontent.com/117534483/209579718-32b235be-68a7-42c6-96b6-f187a907d1c0.jpg)
+![7 4](https://user-images.githubusercontent.com/117534483/209582084-9e73ff72-39a4-4507-8afe-70c6215f1261.jpg)
 
-![7 5](https://user-images.githubusercontent.com/117534483/209579719-9abac3dd-636f-440d-bb95-d757098df262.jpg)
+![7 5](https://user-images.githubusercontent.com/117534483/209582086-fcbd0e09-acb1-45f7-850f-600325535a8d.jpg)
 
-![7 6](https://user-images.githubusercontent.com/117534483/209579721-bf3e94de-30df-41f3-9926-5a8d43cd9b8f.jpg)
+![7 6](https://user-images.githubusercontent.com/117534483/209582088-ca3e707d-cb59-4526-a967-e36e27585d1d.jpg)
 
-![7 7](https://user-images.githubusercontent.com/117534483/209579723-e6eb4050-ba11-4bbb-931e-3bfd4205bc0f.jpg)
+![7 7](https://user-images.githubusercontent.com/117534483/209582090-8a4a7413-0aeb-4687-a418-a373fdf0cd82.jpg)
 
-![7 8](https://user-images.githubusercontent.com/117534483/209579724-9bec21f1-46a1-4ab1-ba28-da6bf85b4a88.jpg)
+![7 8](https://user-images.githubusercontent.com/117534483/209582091-cdc8c080-4c12-4d30-8ab4-039567593c00.jpg)
 
-![7 9](https://user-images.githubusercontent.com/117534483/209579726-84c6d857-e325-4aed-a674-3f59d4983545.jpg)
+![7 9](https://user-images.githubusercontent.com/117534483/209582092-c9717f97-c4a7-4563-82c8-ce9634a33e5d.jpg)
 
-CAPITULO 8 :
+
+CAPITULO 8 : TEOREMAS DE CIRCUITOS Y CONVERSIONES
 
 -Ejercicios pares
 
-![8 1](https://user-images.githubusercontent.com/117534483/209579736-744e27d1-4ec4-48bb-887d-bd6c14dc46ae.jpg)
+![8 1](https://user-images.githubusercontent.com/117534483/209582118-625ff87d-b968-4828-b9e2-a2f58a6f1db5.jpg)
 
-![8 2](https://user-images.githubusercontent.com/117534483/209579737-8512ec25-f4aa-43b0-93cc-dbfee15a0b00.jpg)
+![8 2](https://user-images.githubusercontent.com/117534483/209582119-cd01b8b1-8ec6-405d-9489-6e082416e5e6.jpg)
 
-![8 3](https://user-images.githubusercontent.com/117534483/209579738-45dd2b5c-7285-4608-acb6-c66d29af5b83.jpg)
+![8 3](https://user-images.githubusercontent.com/117534483/209582121-58957d09-a278-4ca7-8f51-074797b436ce.jpg)
 
-![8 4](https://user-images.githubusercontent.com/117534483/209579740-cc4b74cc-34a1-4057-b811-e94130becaab.jpg)
+![8 4](https://user-images.githubusercontent.com/117534483/209582124-edb5c032-4e9e-4e8a-bee3-deb5dc80b2a0.jpg)
 
-![8 5](https://user-images.githubusercontent.com/117534483/209579741-fbf802c9-b21f-4093-9cff-4577e48a9422.jpg)
+![8 5](https://user-images.githubusercontent.com/117534483/209582125-910ec75f-2117-4a80-b8c0-e54f273e5641.jpg)
 
-![8 6](https://user-images.githubusercontent.com/117534483/209579742-e191731b-e5df-4cb8-a007-21ddd6f2879d.jpg)
+![8 6](https://user-images.githubusercontent.com/117534483/209582127-2bdb82da-4d00-41b5-8d08-6aec14714edf.jpg)
 
-![8 7](https://user-images.githubusercontent.com/117534483/209579743-dd2c8ba0-6220-4723-8900-60b22b801690.jpg)
+![8 7](https://user-images.githubusercontent.com/117534483/209582128-9abe9be6-6a93-4dee-bc2b-d50c4bc69f7a.jpg)
 
 4.	VIDEO
 
